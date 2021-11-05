@@ -1,0 +1,1291 @@
+fileFormatVersion: 2
+guid: 67e8e601227008847bedd7ea1e270b8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3410964087544871762
+    second: right-1
+  - first:
+      213: -5214641828415724109
+    second: walk-back-2
+  - first:
+      213: -7978167697804007338
+    second: walk-back-3
+  - first:
+      213: -2391304340210221522
+    second: walk-back-4
+  - first:
+      213: 2456437713022005509
+    second: walk-back-5
+  - first:
+      213: 2172222706181475446
+    second: walk-back-6
+  - first:
+      213: -5553221934200828082
+    second: idle-back-1
+  - first:
+      213: -8384448891338809885
+    second: idle-back-2
+  - first:
+      213: 2547739569706307856
+    second: idle-back-3
+  - first:
+      213: -7630580572328007590
+    second: idle-back-4
+  - first:
+      213: -1358153402831747006
+    second: sprite-sheet-monster-png-2_11
+  - first:
+      213: -8066281544228582783
+    second: idle-back-5
+  - first:
+      213: -7849987190348783337
+    second: idle-left-5
+  - first:
+      213: -3339559964295416571
+    second: idle-front-5
+  - first:
+      213: 32717632759012080
+    second: idle-front-4
+  - first:
+      213: -7804270949321275526
+    second: idle-front-3
+  - first:
+      213: 7427819313656534905
+    second: idle-front-2
+  - first:
+      213: -3513927000128902205
+    second: walk-back-1
+  - first:
+      213: 6370663557662557670
+    second: idle-front-1
+  - first:
+      213: 860629449182253715
+    second: walk-front-1
+  - first:
+      213: -7653902185562169546
+    second: walk-front-2
+  - first:
+      213: -3569014399197723474
+    second: walk-front-3
+  - first:
+      213: -7286402686979780258
+    second: walk-front-4
+  - first:
+      213: 4126155858793446337
+    second: walk-front-5
+  - first:
+      213: -8003196840561154311
+    second: walk-front-6
+  - first:
+      213: 8168571724012985118
+    second: sprite-sheet-monster-png-2_25
+  - first:
+      213: -2337716363623813717
+    second: idle-left-6
+  - first:
+      213: -7200968895882041199
+    second: idle-left-4
+  - first:
+      213: 7264785373668043401
+    second: idle-left-3
+  - first:
+      213: -2435378868172075544
+    second: idle-left-2
+  - first:
+      213: 6087559297020136764
+    second: idle-left-1
+  - first:
+      213: 2681199431709014844
+    second: right-2
+  - first:
+      213: 4224300051286234637
+    second: right-3
+  - first:
+      213: -5027171434287450539
+    second: right-4
+  - first:
+      213: 9220800915971762616
+    second: right-5
+  - first:
+      213: 8592482888206713678
+    second: right-6
+  - first:
+      213: 3197291702899742689
+    second: sprite-sheet-monster-png-2_36
+  - first:
+      213: 411899966156424455
+    second: idle-right-5
+  - first:
+      213: 4399565114473429812
+    second: idle-right-4
+  - first:
+      213: -8345688547238006128
+    second: idle-right-3
+  - first:
+      213: 5746461022532904946
+    second: idle-right-2
+  - first:
+      213: -3722366220609390944
+    second: idle-right-1
+  - first:
+      213: 5514293425645665798
+    second: walk-left-1
+  - first:
+      213: -8638795902430968643
+    second: walk-left-2
+  - first:
+      213: -7546879534435576995
+    second: walk-left-3
+  - first:
+      213: -7910732864347665333
+    second: walk-left-4
+  - first:
+      213: 5071724062936099583
+    second: walk-left-5
+  - first:
+      213: -817654335927527289
+    second: walk-left-6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right-1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 397
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621e764360e7c71458619853288dce98
+      internalID: -3410964087544871762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-back-2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 60
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b01ed38c69abc4294485b57b29daf5
+      internalID: -5214641828415724109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-back-3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 58
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d9908b6d303d64da27b326769d74d0
+      internalID: -7978167697804007338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-back-4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 57
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab499c8b6b8de454188859298c68b0a8
+      internalID: -2391304340210221522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-back-5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 57
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7bfb536d39154cbc0d0e4d9d90efd
+      internalID: 2456437713022005509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-back-6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 59
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e802856937e6040a83832ed39ca52e
+      internalID: 2172222706181475446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-back-1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32828bbf8544b74f911305a1897979b
+      internalID: -5553221934200828082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-back-2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9644d9b19c19be846ac0a0426774a95b
+      internalID: -8384448891338809885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-back-3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfa8fb64cde8d14d90a633a25730101
+      internalID: 2547739569706307856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-back-4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe540ff35d2f624bbd0e367252e505d
+      internalID: -7630580572328007590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-monster-png-2_11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 6
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b3b4701e308d54f8d31af3fe6268bf
+      internalID: -1358153402831747006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-back-5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 3
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476c52ffb6a825e4e8a4ae32d17f981e
+      internalID: -8066281544228582783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-left-5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 117
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee67ec9e6bbd4c498aacce4e5401b81
+      internalID: -7849987190348783337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-front-5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 115
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580456fa70221e14ea89c1396854a698
+      internalID: -3339559964295416571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-front-4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 115
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a87fda11e72b45bdf07ebae55fad6
+      internalID: 32717632759012080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-front-3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 115
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e936213cfd4fc438e76d4bf084cec8
+      internalID: -7804270949321275526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-front-2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 115
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111d5f7a0d1c5b34199decead44e8f3d
+      internalID: 7427819313656534905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-back-1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 60
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2986ee299837a4e4e9bd5c7544c317b0
+      internalID: -3513927000128902205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-front-1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 115
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c73b59c9d5275843a045b380c926473
+      internalID: 6370663557662557670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-front-1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 171
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d09072f8d088642a1da12ff89f56ae
+      internalID: 860629449182253715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-front-2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 171
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e150fee38a0ba4ba52ba7d649c2fd3
+      internalID: -7653902185562169546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-front-3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 171
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a7966c371b8c6438ecea64f3086d66
+      internalID: -3569014399197723474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-front-4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 171
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481e50bda513aa64e9cab7b60c2df980
+      internalID: -7286402686979780258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-front-5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 171
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ccaf88d9164d04288745818e759606
+      internalID: 4126155858793446337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-front-6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 170
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf81b235efd71c84d9871614d198cef8
+      internalID: -8003196840561154311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-monster-png-2_25
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 230
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44363340c1f50f4469cf3d39cbb88657
+      internalID: 8168571724012985118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-left-6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 228
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39329f8357e726438324c5a55f8193c
+      internalID: -2337716363623813717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-left-4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 228
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39c587f8c4020542a3edb77e2a5e2d6
+      internalID: -7200968895882041199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-left-3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 228
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36c1ea14f93f084b9634cff6a82499b
+      internalID: 7264785373668043401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-left-2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 228
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a5ba917d27dfc4eaf9e5c215edfaa3
+      internalID: -2435378868172075544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-left-1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 228
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e151de509de373242b7ee44c37614789
+      internalID: 6087559297020136764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right-2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 397
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4b9e6ea293f2b4c984ef8baedfda91
+      internalID: 2681199431709014844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right-3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 396
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d93aef097b103148afb33d974dde1ec
+      internalID: 4224300051286234637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right-4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 397
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cda082dd8db3e4d9e34c2e8f1e996d
+      internalID: -5027171434287450539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right-5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 396
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad13db7124e4df546a1797874875a0ac
+      internalID: 9220800915971762616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right-6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 397
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cfcb5ffbc7fce4f912612e53be6fa3
+      internalID: 8592482888206713678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-monster-png-2_36
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 339
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788a7b7f8d38eba4bbc7116c918c4add
+      internalID: 3197291702899742689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-right-5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 340
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55d7fb9ee5440e46b22a36f9a757a53
+      internalID: 411899966156424455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-right-4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 340
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c3e26465866b04cb91d088190075ce
+      internalID: 4399565114473429812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-right-3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 340
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20c59c8dd56e0d47ab5c7198ee7f12c
+      internalID: -8345688547238006128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-right-2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 340
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1a9be302f93a34188663103b7014dc
+      internalID: 5746461022532904946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-right-1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 340
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e2fb484869a742a1994a94d79ea05
+      internalID: -3722366220609390944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-left-1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 284
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ab6cff2ce5c0b4bafcd01ea0aaaebe
+      internalID: 5514293425645665798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-left-2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 285
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74876b45d45fe5c41bb9a5b6912a6a87
+      internalID: -8638795902430968643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-left-3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 283
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab9f35e87d3d2a42aee9c0b0827ccf5
+      internalID: -7546879534435576995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-left-4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 285
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516995de4326dec40bc4d460c497908d
+      internalID: -7910732864347665333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-left-5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 283
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0db705145ef84b4581e583c60578ae9
+      internalID: 5071724062936099583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk-left-6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 284
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347835181d7fe7647ba088a804fcdcc0
+      internalID: -817654335927527289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0545c141603bead408867c740921dbad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
